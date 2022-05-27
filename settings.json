@@ -1,0 +1,8 @@
+{
+  "subscription": {
+    "price": 500,
+    "days": 15
+  },
+  "admins": [  ],
+  "videos": [ ]
+}
