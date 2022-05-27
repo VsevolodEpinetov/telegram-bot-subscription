@@ -1,5 +1,5 @@
 {
-  "name": "ppbot100",
+  "name": "subscription-based-bot",
   "version": "1.0.0",
   "description": "Telegram bot for subscription based channel",
   "main": "index.js",
