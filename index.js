@@ -52,12 +52,6 @@ bot.use(
 // 2. Triggers
 // --------------------------------------------------------------------------
 
-/*bot.command('test', (ctx) => {
-  ctx.globalSession.users['91430770'].paidTill = date.getCurrent().timestamp + 15 * 24 * 60 * 60;
-  ctx.globalSession.users['494408575'].paidTill = date.getCurrent().timestamp + 15 * 24 * 60 * 60;
-  ctx.reply('done')
-})*/
-
 // ---
 // Command /start
 //
